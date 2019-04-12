@@ -1,2 +1,2 @@
 # Skoltech_Deep_Learning
-Deep Learning course at Skoltech autumn 2018-2019
+Deep Learning course at Skoltech. Spring 2018-2019.
